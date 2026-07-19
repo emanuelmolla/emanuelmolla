@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner.png" alt="Emanuel Molla" width="1200"/>
+  <img src="assets/banner-blue.png" alt="Emanuel Molla" width="1200"/>
 </div>
 
 <div align="center">
@@ -10,7 +10,7 @@
 
 ## About
 
-Backend-focused full-stack developer studying Computer Systems Technology at BCIT. I build scalable web applications with clean, efficient code and love solving complex problems.
+Backend-focused full-stack developer studying Computer Systems Technology at BCIT, currently on a software development co-op. I build scalable web applications with clean, efficient code and love solving complex problems.
 
 When I'm not coding, you'll find me playing chess - always up for a game!
 
