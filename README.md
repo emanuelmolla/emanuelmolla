@@ -16,11 +16,11 @@ When I'm not coding, you'll find me playing chess - always up for a game!
 
 ## Recent Projects
 
+**Vivid Africa** - Booking platform for a tour company: online tour booking, email notifications, and an admin panel for managing content  
+*Next.js • Express • PostgreSQL • Cloudflare R2*
+
 **DevNest** - Full-stack project management app for developers  
 *React • Node.js • Express • MongoDB*
-
-**Vivid Africa** - Booking platform for a real client (a tour company) with tour booking, email notifications, and an admin panel for content customization  
-*Next.js • Express • PostgreSQL • Cloudflare R2*
 
 ## Tech Stack
 
